@@ -20,7 +20,7 @@ General trends can be observed below in Figure 1. Note that the X and Y scale is
 in this test, each row in the dataset is 850 bytes long. The sytem had 1 CPU (1 core) and 3.5 gigs of memory.
 ![picture alt](imgs/trainingtime_performance.png "Figure 1")
 
-# System Requirements
+## System Requirements
 
 The examples in this project require the pyembed plugin and Python to be installed on every machine in the system. Python version 2.7 has been tested, but Python 3.x should work with little to no modifications. In addition, there are several python packages that are required for use, the main libraries (and any of their included dependencies) are:
 
@@ -30,7 +30,7 @@ The examples in this project require the pyembed plugin and Python to be install
  * pandas
  * h5py 
 
-A full list of python packages of the system the examples were tested on can be found in ["python_modules.txt"](python_modules.txt)http://martin.zinkevich.org/publications/nips2010.pdf
+A full list of python packages of the system the examples were tested on can be found in ["python_modules.txt"](python_modules.txt)
 
 
 
