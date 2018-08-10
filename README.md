@@ -1,5 +1,4 @@
 # Distributed-Deep-Learning
-<a href="http://martin.zinkevich.org/publications/nips2010.pdf" target="_blank">Zinkevich et al.</a>
 This library is the result of Robert K.L. Kennedy's summer 2018 internship.
 
 This library is designed to leverage HPCC Systems and Google TensorFlow to provide HPCC a
@@ -7,7 +6,7 @@ distributed deep learning runtime. Current implementation is based off of the Pa
 It uses HPCC/ECL to provide the data parallelism and TensorFlow for the localized neural network optimization.
 
 I used Keras on top of TensorFlow, for two main reasons. First, Keras reduces the required 
-lines of code. Secondly, and perhaps most importantly, Keras can use different deep learning libraries
+lines of code. Secondly, and perhaps more importantly, Keras can use different deep learning libraries
 as a 'backend' (Theano, CNTK, TensorFlow) removing this work's dependency on TensorFlow.
 
 ## Performance
