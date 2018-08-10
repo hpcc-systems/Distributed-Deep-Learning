@@ -1,5 +1,5 @@
 # Distributed-Deep-Learning
-
+<a href="http://martin.zinkevich.org/publications/nips2010.pdf" target="_blank">Zinkevich et al.</a>
 This library is the result of Robert K.L. Kennedy's summer 2018 internship.
 
 This library is designed to leverage HPCC Systems and Google TensorFlow to provide HPCC a
