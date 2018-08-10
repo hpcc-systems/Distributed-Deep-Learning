@@ -12,7 +12,7 @@ the data for the pyembed memory constraints.
  * First spray the prepared data, found in the MNIST directory onto your HPCC System
  	* Fixed record length of 785
  	* (the original MNIST data is included in MNIST_raw if for completeness)
-  * Second simply run [MNIST_MLP.ecl](MNIST_mlp.ecl) ecl code on a THOR system
+  * Then simply run [MNIST_MLP.ecl](MNIST_mlp.ecl) ecl code on a THOR system
   	* run on HTHOR to compare against a single node setup
 
 
